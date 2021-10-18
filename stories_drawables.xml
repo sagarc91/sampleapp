@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="stories_iamges">
+        <item>@drawable/night</item>
+        <item>@drawable/instagramstories</item>
+        <item>@drawable/night</item>
+        <item>@drawable/instagramstories</item>
+        <item>@drawable/night</item>
+        <item>@drawable/instagramstories</item>
+        <item>@drawable/night</item>
+        <item>@drawable/instagramstories</item>
+        <item>@drawable/night</item>
+    </integer-array>
+</resources>
